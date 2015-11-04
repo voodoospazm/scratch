@@ -1,0 +1,27 @@
+{
+  "name": "watermark",
+  "version": "1.0.0",
+  "authors": [
+    "Loftschool students team 3"
+  ],
+  "description": "Watermark service",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "watermark"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.3",
+    "modernizr": "2.8",
+    "normalize-css": "~3.0.3"
+  }
+}
